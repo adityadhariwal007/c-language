@@ -12,7 +12,7 @@ int main() {
     
     if (difference<0)
     { difference = difference *(-1);
-        /* code */
+        
     }
     
    
